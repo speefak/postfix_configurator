@@ -6,7 +6,7 @@ Postfix config script for a satelitesystem. Requires a GMX mail address ( or rec
     -cnc		=> (c)reate (n)ew (c)onfig 
     -udb		=> (u)pdate postmap (d)ata(b)ase 
     -stm <a>	=> (s)end (t)est (m)ails (a => automode)
-    -bc   => (b)ackup (c)onfiguration
+    -bc  => (b)ackup (c)onfiguration
     -m		=> (m)onochrome output 
     -si		=> (s)how script (i)nformation 
 

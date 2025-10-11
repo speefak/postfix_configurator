@@ -9,7 +9,7 @@ Postfix config script for a satelitesystem. Requires a GMX mail address ( or rec
     -bc             => (b)ackup (c)onfiguration
     -m		=> (m)onochrome output 
     -si		=> (s)how script (i)nformation 
-
+	   -cfrp		=> (c)heck (f)or (r)equired (p)ackages 
  
 --------------------------------------------------------------------------------------------------------------
 

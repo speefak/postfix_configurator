@@ -118,6 +118,7 @@ usage() {
 	printf " -bc		=> (b)ackup (c)onfig \n"
 	printf " -m		=> (m)onochrome output \n"
 	printf " -si		=> (s)how script (i)nformation \n"
+    printf " -cfrp		=> (c)heck (f)or (r)equired (p)ackages \n"
 	printf  "\n${Red} $1 ${Reset}\n"
 	printf "\n"
 	exit
